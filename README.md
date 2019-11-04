@@ -34,3 +34,7 @@
 ## Как это работает
 - Основные технологии: IPFS, Blockchain, DHT, HLS, FFMPEG (Конвертр). См. [Как и какие мы используем технологии](How_and_what_technologies_do_we_use.md)
 - Хранение видео контента подобно торренту - см. [Хранение и распространение видео контента](Storage_and_dissemination_of_information.md)
+
+
+# Дополнительно 
+- (Идеологическое ядро)[ideological_core.md]
