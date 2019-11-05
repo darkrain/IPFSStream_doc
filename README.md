@@ -38,3 +38,7 @@
 
 # Дополнительно 
 - [Идеологическое ядро](ideological_core.md)
+- [Дорожная карта](roadmap.md)
+- [Презентация](prezentation.md)
+- [v1](v1.md)
+- [v2](v2.md)
